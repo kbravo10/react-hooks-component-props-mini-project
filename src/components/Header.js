@@ -1,10 +1,9 @@
 import React from "react";
 
 function Header({name}){
-    console.log(name)
     return(
         <header>
-          {name}
+          <h1>{name}</h1>
         </header>
     )
 }
