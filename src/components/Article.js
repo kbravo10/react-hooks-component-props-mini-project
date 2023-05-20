@@ -10,4 +10,4 @@ function Article({title, date="January 1, 1970", preview}){
     )
 }
 
-export default Article
+export default Article;

@@ -9,4 +9,4 @@ function About({image="https://via.placeholder.com/215Links to an external site.
     )
 }
 
-export default About
+export default About;
